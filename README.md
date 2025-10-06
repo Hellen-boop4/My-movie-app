@@ -14,11 +14,6 @@ i have used all the prefered react states
 
 readme on checkpoint React Router Checkpoint
 
-Absolutely 💪 — here’s a **detailed `README.md`** you can use for your Movie App project.
-It’s written in clear, beginner-friendly language — like a mini manual — and you can paste it directly into your project root as `README.md`.
-
----
-
 ## 🎬 Movie App
 
 A simple React Movie Application built for learning and demonstration purposes.
